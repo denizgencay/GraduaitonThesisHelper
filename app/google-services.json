@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383686550523",
+    "project_id": "graduationthesis-919ca",
+    "storage_bucket": "graduationthesis-919ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383686550523:android:a451b0b8fdd38dbf53e15e",
+        "android_client_info": {
+          "package_name": "com.example.graduationthesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383686550523-079ruqdveaesjad8e5p4f254s2vv82dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIxJTiXqWWhN74HhjbORcndTWcl_FoXv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383686550523-079ruqdveaesjad8e5p4f254s2vv82dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

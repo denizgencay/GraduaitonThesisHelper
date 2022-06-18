@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.vehicle_register.VehicleRegisterFragment">
+
+    <EditText
+        android:id="@+id/plate_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:textColorHint="@color/purple_200"
+        android:textColor="@color/purple_700"
+        android:inputType="textCapCharacters"
+        android:textAlignment="center"
+        android:hint="Lütfen Plakanızı Giriniz" />
+    <Button
+        android:id="@+id/register_vehicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/plate_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Plakayı Kaydet"/>
+
+
+</RelativeLayout>
